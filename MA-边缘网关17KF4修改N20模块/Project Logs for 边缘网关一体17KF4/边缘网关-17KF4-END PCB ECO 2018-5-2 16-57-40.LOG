@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NRST Pin=C22-2
+Removed Pin From Net: NetName=OSC32_IN Pin=C23-2
+Added Component: Designator=*(PCBComponent_1)
+Added Component: Designator=C24(0603)
+Added Component: Designator=C26(0603)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=TXD Pin=*-9
+Added Pin To Net: NetName=RXD Pin=*-10
+Added Pin To Net: NetName=RTS Pin=*-11
+Added Pin To Net: NetName=CTS Pin=*-12
+Added Pin To Net: NetName=RESET Pin=*-13
+Added Pin To Net: NetName=PWRKEY Pin=*-14
+Added Pin To Net: NetName=DTR Pin=*-15
+Added Pin To Net: NetName=1P8 Pin=*-17
+Added Pin To Net: NetName=1P8 Pin=*-17
+Added Pin To Net: NetName=GND Pin=*-18
+Added Pin To Net: NetName=GND Pin=*-19
+Added Pin To Net: NetName=GND Pin=*-19
+Added Pin To Net: NetName=VBAT Pin=*-20
+Added Pin To Net: NetName=VBAT Pin=*-21
+Added Pin To Net: NetName=VBAT Pin=*-22
+Added Pin To Net: NetName=GND Pin=*-23
+Added Pin To Net: NetName=GND Pin=*-24
+Added Pin To Net: NetName=VUIM Pin=*-29
+Added Pin To Net: NetName=UIM_DATA Pin=*-30
+Added Pin To Net: NetName=UIM_CLK Pin=*-31
+Added Pin To Net: NetName=UIM_RESET Pin=*-32
+Added Pin To Net: NetName=UIM_PRESENT Pin=*-33
+Added Pin To Net: NetName=GND Pin=*-34
+Added Pin To Net: NetName=GND Pin=*-35
+Added Pin To Net: NetName=GND Pin=*-35
+Added Pin To Net: NetName=GND Pin=*-42
+Added Pin To Net: NetName=RING Pin=*-50
+Added Pin To Net: NetName=NETLIGHT Pin=*-51
+Added Pin To Net: NetName=GND Pin=*-52
+Added Pin To Net: NetName=GND Pin=*-53
+Added Pin To Net: NetName=GND Pin=*-53
+Added Pin To Net: NetName=RF_GNSS Pin=*-54
+Added Pin To Net: NetName=GND Pin=*-55
+Added Pin To Net: NetName=EXT_GNSS Pin=*-56
+Added Pin To Net: NetName=GND Pin=*-57
+Added Pin To Net: NetName=GND Pin=*-66
+Added Pin To Net: NetName=GND Pin=*-68
+Added Pin To Net: NetName=VBAT Pin=C22-2
+Added Pin To Net: NetName=VBAT Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=OSC32_IN Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NRST Pin=C22-2
+Added Member To Class: ClassName=边缘网关一体 Member=Component * U7
+Added Member To Class: ClassName=边缘网关一体 Member=Component C26 C_100nF
+Added Room: Name=边缘网关一体

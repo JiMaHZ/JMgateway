@@ -1,0 +1,4 @@
+Add Pin To Net: Pin=U8-67 Old Net=NetU8_67 New Net=RF_MAIN
+Change Pin Designator/Name:  Old Designator=D16-4 Old Name= New Designator = New Name=5
+Change Pin Designator/Name:  Old Designator=D16-5 Old Name= New Designator = New Name=6
+Change Pin Designator/Name:  Old Designator=D16-6 Old Name= New Designator = New Name=4

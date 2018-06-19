@@ -1,0 +1,296 @@
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=RESET Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=NetC18_2 Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=NRST Pin=C22-2
+Removed Pin From Net: NetName=OSC32_IN Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=Card1-4
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q6-2
+Removed Pin From Net: NetName=RESET Pin=Q6-3
+Removed Pin From Net: NetName=DATE1 Pin=R2-2
+Removed Pin From Net: NetName=DATE2 Pin=R3-2
+Removed Pin From Net: NetName=DATE5 Pin=R4-2
+Removed Pin From Net: NetName=DATE3 Pin=R5-2
+Removed Pin From Net: NetName=DATE4 Pin=R6-2
+Removed Pin From Net: NetName=TERM_ON_CTL Pin=R30-2
+Removed Pin From Net: NetName=1.8V Pin=R31-2
+Removed Pin From Net: NetName=NetQ4_1 Pin=R36-1
+Removed Pin From Net: NetName=WAKEUP_CTL Pin=R36-2
+Removed Pin From Net: NetName=RESET_CTL Pin=R38-2
+Removed Member From Class: ClassName=边缘网关一体 Member=C13
+Removed Member From Class: ClassName=边缘网关一体 Member=C14
+Removed Member From Class: ClassName=边缘网关一体 Member=C15
+Removed Member From Class: ClassName=边缘网关一体 Member=Q1
+Removed Member From Class: ClassName=边缘网关一体 Member=Q6
+Removed Member From Class: ClassName=边缘网关一体 Member=R4
+Removed Member From Class: ClassName=边缘网关一体 Member=R5
+Removed Member From Class: ClassName=边缘网关一体 Member=R6
+Removed Member From Class: ClassName=边缘网关一体 Member=R30
+Removed Member From Class: ClassName=边缘网关一体 Member=R31
+Removed Member From Class: ClassName=边缘网关一体 Member=R36
+Change Component DesignItemId : Designator=C19 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=R38 Old DesignItemId=Resistor New DesignItemId=Res2
+Change Component Footprint: Designator=C18 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C19 Old Footprint=0603 New Footprint=1206
+Change Component Comment : Designator=C20 Old Comment=0.1uF New Comment=C_0.1uF
+Change Component Comment : Designator=R2 Old Comment=0R New Comment=1.5K
+Change Component Comment : Designator=R3 Old Comment=0R New Comment=100R
+Change Component Comment : Designator=C19 Old Comment=33pF New Comment=220uF
+Change Component Comment : Designator=C18 Old Comment=33pF New Comment=C_0.1uF
+Change Component Comment : Designator=C21 Old Comment=33pF New Comment=C_0.1uF
+Change Component Comment : Designator=R44 Old Comment=33R New Comment=20R
+Change Component Comment : Designator=R45 Old Comment=33R New Comment=20R
+Change Component Comment : Designator=R46 Old Comment=33R New Comment=20R
+Change Component Comment : Designator=R1 Old Comment=240R New Comment=330R
+Change Component Comment : Designator=C23 Old Comment=C_10pF New Comment=C_0.1uF
+Change Component Comment : Designator=C22 Old Comment=C_100nF New Comment=C_0.1uF
+Change Component Comment : Designator=R38 Old Comment=R_2.2K New Comment=缺省
+Change Component Description : Designator=Q4 Old Description=NPN Bipolar Transistor New Description=贴片三极管MMBT5551 SOT-23
+Change Component Description : Designator=R38 Old Description=贴片电阻 0603 New Description=Resistor
+Change Component Library : Designator=C21 Old Library=Any New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C20 Old Library=MyMiscellaneousDevices.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R38 Old Library=MyMiscellaneousDevices.IntLib New Library=Miscellaneous Devices.IntLib
+Added Component: Designator=C24(0603)
+Added Component: Designator=C26(0603)
+Added Component: Designator=C27(1608[0603])
+Added Component: Designator=C28(1608[0603])
+Added Component: Designator=C29(0603)
+Added Component: Designator=C30(0603)
+Added Component: Designator=D10(LED-3mm)
+Added Component: Designator=D17(LED-3mm)
+Added Component: Designator=D18(DO-214AB)
+Added Component: Designator=D19(DO-214AB)
+Added Component: Designator=Q9(SOT23_N)
+Added Component: Designator=Q10(SOT23_N)
+Added Component: Designator=Q11(SOT23_N)
+Added Component: Designator=Q12(SOT23_N)
+Added Component: Designator=Q14(SOT23_N)
+Added Component: Designator=Q15(SOT23_N)
+Added Component: Designator=Q16(SOT23_N)
+Added Component: Designator=Q17(SOT-23)
+Added Component: Designator=R48(0603)
+Added Component: Designator=R49(0603)
+Added Component: Designator=R50(0603)
+Added Component: Designator=R51(0603)
+Added Component: Designator=R52(0603)
+Added Component: Designator=R53(0603)
+Added Component: Designator=R54(0603)
+Added Component: Designator=R55(0603)
+Added Component: Designator=R56(0603)
+Added Component: Designator=R57(0603)
+Added Component: Designator=R58(0603)
+Added Component: Designator=R59(0603)
+Added Component: Designator=R60(0603)
+Added Component: Designator=R63(0603)
+Added Component: Designator=R64(0603)
+Added Component: Designator=R65(0603)
+Added Component: Designator=R66(0603)
+Added Component: Designator=R67(0603)
+Added Component: Designator=R68(0603)
+Added Component: Designator=R69(0603)
+Added Component: Designator=R70(0603)
+Added Component: Designator=R71(0603)
+Added Pin To Net: NetName=VCCH Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=VCCH Pin=C20-2
+Added Pin To Net: NetName=VCCH Pin=C21-2
+Added Pin To Net: NetName=VCCH Pin=C22-2
+Added Pin To Net: NetName=VCCH Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=OSC32_IN Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NRST Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=VCC Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=DATE3 Pin=CPU1-15
+Added Pin To Net: NetName=DATE2 Pin=CPU1-16
+Added Pin To Net: NetName=DATE1 Pin=CPU1-17
+Added Pin To Net: NetName=DATE5 Pin=CPU1-23
+Added Pin To Net: NetName=DATE4 Pin=CPU1-24
+Added Pin To Net: NetName=VCC Pin=D10-1
+Added Pin To Net: NetName=VCC Pin=D17-1
+Added Pin To Net: NetName=NetD9_2 Pin=D18-1
+Added Pin To Net: NetName=NetD6_2 Pin=D18-2
+Added Pin To Net: NetName=NetD8_2 Pin=D19-1
+Added Pin To Net: NetName=NetD5_2 Pin=D19-2
+Added Pin To Net: NetName=PD6 Pin=Q9-3
+Added Pin To Net: NetName=PD5 Pin=Q10-2
+Added Pin To Net: NetName=PD3 Pin=Q11-3
+Added Pin To Net: NetName=PD4 Pin=Q12-2
+Added Pin To Net: NetName=GND Pin=Q14-2
+Added Pin To Net: NetName=RESET_CTL Pin=Q15-2
+Added Pin To Net: NetName=RESET Pin=Q15-3
+Added Pin To Net: NetName=PD11 Pin=Q16-2
+Added Pin To Net: NetName=GND Pin=Q17-2
+Added Pin To Net: NetName=NetD9_2 Pin=R2-1
+Added Pin To Net: NetName=NetD6_2 Pin=R2-2
+Added Pin To Net: NetName=NetD8_2 Pin=R3-1
+Added Pin To Net: NetName=NetD5_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=VCCH Pin=R38-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R49-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R50-1
+Added Pin To Net: NetName=GND Pin=R50-2
+Added Pin To Net: NetName=VCC Pin=R53-1
+Added Pin To Net: NetName=PD6 Pin=R53-2
+Added Pin To Net: NetName=VCC Pin=R57-1
+Added Pin To Net: NetName=PD3 Pin=R57-2
+Added Pin To Net: NetName=GND Pin=R64-1
+Added Pin To Net: NetName=RESET_CTL Pin=R65-2
+Added Pin To Net: NetName=RING Pin=R69-1
+Added Pin To Net: NetName=GND Pin=R70-2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetCard1_3
+Change Net Name : Old Net Name=VCCH New Net Name=VBAT
+Added Pin To Net: NetName=1P8 Pin=R54-1
+Added Pin To Net: NetName=1P8 Pin=R55-1
+Added Pin To Net: NetName=1P8 Pin=R56-1
+Added Pin To Net: NetName=1P8 Pin=R58-1
+Added Pin To Net: NetName=1P8 Pin=R59-1
+Added Pin To Net: NetName=1P8 Pin=R60-1
+Added Pin To Net: NetName=1P8 Pin=R66-1
+Added Pin To Net: NetName=1P8 Pin=R67-1
+Added Pin To Net: NetName=1P8 Pin=R68-1
+Added Net: Name=1P8
+Added Pin To Net: NetName=CTS Pin=Q12-3
+Added Pin To Net: NetName=CTS Pin=R59-2
+Added Net: Name=CTS
+Added Pin To Net: NetName=DTR Pin=Q16-3
+Added Pin To Net: NetName=DTR Pin=R67-2
+Added Net: Name=DTR
+Added Net: Name=EXT_GNSS
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=R52-2
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetCard1_2 Pin=Card1-2
+Added Pin To Net: NetName=NetCard1_2 Pin=D16-6
+Added Pin To Net: NetName=NetCard1_2 Pin=R45-1
+Added Net: Name=NetCard1_2
+Added Pin To Net: NetName=NetCard1_5 Pin=Card1-5
+Added Pin To Net: NetName=NetCard1_5 Pin=D16-1
+Added Net: Name=NetCard1_5
+Added Pin To Net: NetName=NetCard1_6 Pin=Card1-6
+Added Pin To Net: NetName=NetCard1_6 Pin=D16-5
+Added Pin To Net: NetName=NetCard1_6 Pin=R46-1
+Added Pin To Net: NetName=NetCard1_6 Pin=R48-1
+Added Net: Name=NetCard1_6
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R51-2
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_2 Pin=R71-2
+Added Net: Name=NetD17_2
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NETLIGHT Pin=R49-1
+Added Net: Name=NETLIGHT
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R51-1
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R54-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R56-2
+Added Net: Name=NetQ10_1
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R58-2
+Added Net: Name=NetQ11_1
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_1 Pin=R60-2
+Added Net: Name=NetQ12_1
+Added Pin To Net: NetName=NetQ14_1 Pin=Q14-1
+Added Pin To Net: NetName=NetQ14_1 Pin=R63-1
+Added Pin To Net: NetName=NetQ14_1 Pin=R64-2
+Added Net: Name=NetQ14_1
+Added Pin To Net: NetName=NetQ15_1 Pin=Q15-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R65-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R66-2
+Added Net: Name=NetQ15_1
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R68-2
+Added Net: Name=NetQ16_1
+Added Pin To Net: NetName=NetQ17_1 Pin=Q17-1
+Added Pin To Net: NetName=NetQ17_1 Pin=R69-2
+Added Pin To Net: NetName=NetQ17_1 Pin=R70-1
+Added Net: Name=NetQ17_1
+Added Pin To Net: NetName=NetQ17_3 Pin=Q17-3
+Added Pin To Net: NetName=NetQ17_3 Pin=R71-1
+Added Net: Name=NetQ17_3
+Added Pin To Net: NetName=POW_ON Pin=CPU1-59
+Added Pin To Net: NetName=POW_ON Pin=R42-2
+Added Pin To Net: NetName=POW_ON Pin=R63-2
+Added Net: Name=POW_ON
+Added Pin To Net: NetName=PWRKEY Pin=Q14-3
+Added Net: Name=PWRKEY
+Added Net: Name=RF_GNSS
+Added Pin To Net: NetName=RF_MAIN Pin=C29-2
+Added Pin To Net: NetName=RF_MAIN Pin=R52-1
+Added Net: Name=RF_MAIN
+Added Pin To Net: NetName=RTS Pin=Q11-2
+Added Net: Name=RTS
+Added Pin To Net: NetName=RXD Pin=Q10-3
+Added Pin To Net: NetName=RXD Pin=R55-2
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=Q9-2
+Added Net: Name=TXD
+Added Pin To Net: NetName=UIM_CLK Pin=R44-2
+Added Net: Name=UIM_CLK
+Added Pin To Net: NetName=UIM_DATA Pin=R46-2
+Added Net: Name=UIM_DATA
+Added Net: Name=UIM_PRESENT
+Added Pin To Net: NetName=UIM_RESET Pin=R45-2
+Added Net: Name=UIM_RESET
+Added Pin To Net: NetName=VUIM Pin=C18-2
+Added Pin To Net: NetName=VUIM Pin=Card1-1
+Added Pin To Net: NetName=VUIM Pin=D16-3
+Added Pin To Net: NetName=VUIM Pin=R48-2
+Added Net: Name=VUIM
+Added Member To Class: ClassName=边缘网关一体 Member=Component C26 C_100nF
+Added Member To Class: ClassName=边缘网关一体 Member=Component C27 470pF
+Added Member To Class: ClassName=边缘网关一体 Member=Component C28 0.1uF
+Added Member To Class: ClassName=边缘网关一体 Member=Component C29 缺省
+Added Member To Class: ClassName=边缘网关一体 Member=Component C30 缺省
+Added Member To Class: ClassName=边缘网关一体 Member=Component D10 LED BLUE
+Added Member To Class: ClassName=边缘网关一体 Member=Component D17 LED BLUE
+Added Member To Class: ClassName=边缘网关一体 Member=Component D18 SMBJ6.8CA
+Added Member To Class: ClassName=边缘网关一体 Member=Component D19 SMBJ6.8CA
+Added Member To Class: ClassName=边缘网关一体 Member=Component Q9 MMBT3904
+Added Member To Class: ClassName=边缘网关一体 Member=Component Q10 MMBT3904
+Added Member To Class: ClassName=边缘网关一体 Member=Component Q11 MMBT3904
+Added Member To Class: ClassName=边缘网关一体 Member=Component Q12 MMBT3904
+Added Member To Class: ClassName=边缘网关一体 Member=Component Q14 MMBT3904
+Added Member To Class: ClassName=边缘网关一体 Member=Component Q15 MMBT3904
+Added Member To Class: ClassName=边缘网关一体 Member=Component Q16 MMBT3904
+Added Member To Class: ClassName=边缘网关一体 Member=Component Q17 9013
+Added Member To Class: ClassName=边缘网关一体 Member=Component R48 470R
+Added Member To Class: ClassName=边缘网关一体 Member=Component R49 Res2
+Added Member To Class: ClassName=边缘网关一体 Member=Component R50 Res2
+Added Member To Class: ClassName=边缘网关一体 Member=Component R51 Res2
+Added Member To Class: ClassName=边缘网关一体 Member=Component R52 0
+Added Member To Class: ClassName=边缘网关一体 Member=Component R53 10K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R54 4.7K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R55 10K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R56 4.7K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R57 10K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R58 4.7K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R59 10K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R60 4.7K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R63 10K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R64 10K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R65 47K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R66 4.7K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R67 10K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R68 4.7K
+Added Member To Class: ClassName=边缘网关一体 Member=Component R69 Res2
+Added Member To Class: ClassName=边缘网关一体 Member=Component R70 Res2
+Added Member To Class: ClassName=边缘网关一体 Member=Component R71 Res2
+Added Room: Name=边缘网关一体

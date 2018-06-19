@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NRST Pin=C22-2
+Removed Pin From Net: NetName=OSC32_IN Pin=C23-2
+Change Component Footprint: Designator=D16 Old Footprint=SC70-6L New Footprint=SOT23-6
+Added Component: Designator=C24(0603)
+Added Component: Designator=C26(0603)
+Added Component: Designator=E1(IPX)
+Added Component: Designator=E2(IPX)
+Added Pin To Net: NetName=VBAT Pin=C22-2
+Added Pin To Net: NetName=VBAT Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=OSC32_IN Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NRST Pin=C22-2
+Added Pin To Net: NetName=NetC27_1 Pin=E1-1
+Added Pin To Net: NetName=NetC30_2 Pin=E2-1
+Added Member To Class: ClassName=边缘网关一体 Member=Component E1 Antenna
+Added Member To Class: ClassName=边缘网关一体 Member=Component E2 Antenna

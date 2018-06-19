@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=E1-2
+Removed Pin From Net: NetName=GND Pin=E1-4
+Added Component: Designator=C8(0603)
+Added Component: Designator=C9(0603)
+Added Component: Designator=C10(0603)
+Added Component: Designator=C11(0603)
+Added Component: Designator=C12(1206)
+Added Component: Designator=D3(DO-214AB)
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VBAT Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VBAT Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VBAT Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VBAT Pin=C11-2
+Added Pin To Net: NetName=VBAT Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=VBAT Pin=D3-2
+Added Member To Class: ClassName=BC95+SIM Member=Component C8 100uF
+Added Member To Class: ClassName=BC95+SIM Member=Component C9 100nF
+Added Member To Class: ClassName=BC95+SIM Member=Component C10 100pF
+Added Member To Class: ClassName=BC95+SIM Member=Component C11 22pF
+Added Member To Class: ClassName=BC95+SIM Member=Component C12 100uF
+Added Member To Class: ClassName=BC95+SIM Member=Component D3 D Zener
+Added Room: Name=BC95+SIM

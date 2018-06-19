@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=VBAT Pin=R33-1
+Removed Member From Class: ClassName=边缘网关一体 Member=D13
+Removed Member From Class: ClassName=边缘网关一体 Member=Q2
+Removed Member From Class: ClassName=边缘网关一体 Member=R33
+Removed Member From Class: ClassName=边缘网关一体 Member=R35
+Added Room: Name=边缘网关一体

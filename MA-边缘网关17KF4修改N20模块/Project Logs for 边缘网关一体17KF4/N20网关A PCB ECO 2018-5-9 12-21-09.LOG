@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=DATE3 Pin=CPU1-15
+Removed Pin From Net: NetName=DATE2 Pin=CPU1-16
+Removed Pin From Net: NetName=DATE1 Pin=CPU1-17
+Removed Pin From Net: NetName=DATE5 Pin=CPU1-23
+Removed Pin From Net: NetName=DATE4 Pin=CPU1-24
+Removed Pin From Net: NetName=DATE1 Pin=R7-2
+Removed Pin From Net: NetName=DATE2 Pin=R8-2
+Removed Pin From Net: NetName=DATE5 Pin=R9-2
+Removed Pin From Net: NetName=DATE3 Pin=R10-2
+Removed Pin From Net: NetName=DATE4 Pin=R11-2
+Added Component: Designator=R74(0805)
+Added Component: Designator=R75(0805)
+Added Component: Designator=R76(0805)
+Added Component: Designator=R77(0805)
+Added Component: Designator=R78(0805)
+Added Pin To Net: NetName=DATE1 Pin=R74-1
+Added Pin To Net: NetName=DATE2 Pin=R75-1
+Added Pin To Net: NetName=DATE3 Pin=R76-1
+Added Pin To Net: NetName=DATE4 Pin=R77-1
+Added Pin To Net: NetName=DATE5 Pin=R78-1
+Added Pin To Net: NetName=PA0 Pin=CPU1-23
+Added Pin To Net: NetName=PA0 Pin=R9-2
+Added Pin To Net: NetName=PA0 Pin=R78-2
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=CPU1-24
+Added Pin To Net: NetName=PA1 Pin=R11-2
+Added Pin To Net: NetName=PA1 Pin=R77-2
+Added Net: Name=PA1
+Added Pin To Net: NetName=PC0 Pin=CPU1-15
+Added Pin To Net: NetName=PC0 Pin=R10-2
+Added Pin To Net: NetName=PC0 Pin=R76-2
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=CPU1-16
+Added Pin To Net: NetName=PC1 Pin=R8-2
+Added Pin To Net: NetName=PC1 Pin=R75-2
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=CPU1-17
+Added Pin To Net: NetName=PC2 Pin=R7-2
+Added Pin To Net: NetName=PC2 Pin=R74-2
+Added Net: Name=PC2
+Added Member To Class: ClassName=边缘网关一体 Member=Component R74 50R
+Added Member To Class: ClassName=边缘网关一体 Member=Component R75 50R
+Added Member To Class: ClassName=边缘网关一体 Member=Component R76 50R
+Added Member To Class: ClassName=边缘网关一体 Member=Component R77 50R
+Added Member To Class: ClassName=边缘网关一体 Member=Component R78 50R
+Added Room: Name=边缘网关一体

@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=R8 NewDesignator=R1
+Change Component Designator: OldDesignator=R9 NewDesignator=R2
+Change Component Designator: OldDesignator=R12 NewDesignator=R4
+Change Component Designator: OldDesignator=R15 NewDesignator=R8
+Change Component Designator: OldDesignator=R16 NewDesignator=R9
+Change Component Designator: OldDesignator=R17 NewDesignator=R5
+Change Component Designator: OldDesignator=R18 NewDesignator=R10
+Change Component Designator: OldDesignator=R19 NewDesignator=R11
+Change Component Designator: OldDesignator=R20 NewDesignator=R12
+Change Component Designator: OldDesignator=R21 NewDesignator=R13
+Change Component Designator: OldDesignator=R22 NewDesignator=R14
+Change Component Designator: OldDesignator=R23 NewDesignator=R15
+Change Component Designator: OldDesignator=R24 NewDesignator=R16
+Added Pin To Net: NetName=DATA1 Pin=C2-1
+Added Pin To Net: NetName=DATA2 Pin=C3-1
+Added Pin To Net: NetName=DATA3 Pin=C6-1
+Added Pin To Net: NetName=DATA4 Pin=C7-1
+Added Pin To Net: NetName=DATA1 Pin=R6-2
+Added Pin To Net: NetName=DATA2 Pin=R7-2
+Added Pin To Net: NetName=DATA3 Pin=R10-2
+Added Pin To Net: NetName=DATA4 Pin=R11-2
+Added Pin To Net: NetName=DATA1 Pin=U1-14
+Added Pin To Net: NetName=DATA2 Pin=U1-15
+Added Pin To Net: NetName=DATA3 Pin=U1-18
+Added Pin To Net: NetName=DATA4 Pin=U1-19
+Change Net Name : Old Net Name=NetP2_21 New Net Name=NetP1_21
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR15_2
+Added Room: Name=STM32CC

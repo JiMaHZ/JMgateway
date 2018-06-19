@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=STM32CC Member=P1
+Removed Member From Class: ClassName=STM32CC Member=P5
+Added Component: Designator=P?(HDR2X14_CEN)
+Added Member To Class: ClassName=STM32CC Member=Component P? Header 14X2A
+Added Room: Name=STM32CC

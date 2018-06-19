@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=USIM_VDD Pin=Card1-5
+Removed Pin From Net: NetName=USIM_VDD Pin=D1-5
+Added Room: Name=BC95+SIM

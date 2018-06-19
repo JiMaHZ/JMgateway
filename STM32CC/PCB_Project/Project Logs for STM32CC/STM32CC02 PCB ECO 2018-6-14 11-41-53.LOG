@@ -1,0 +1,64 @@
+Added Member To Class: ClassName=STM32CC Member=Component C1 Cap
+Added Member To Class: ClassName=STM32CC Member=Component C2 C_0.1uF
+Added Member To Class: ClassName=STM32CC Member=Component C3 C_0.1uF
+Added Member To Class: ClassName=STM32CC Member=Component C4 Cap
+Added Member To Class: ClassName=STM32CC Member=Component C5 Cap
+Added Member To Class: ClassName=STM32CC Member=Component C6 C_0.1uF
+Added Member To Class: ClassName=STM32CC Member=Component C7 C_0.1uF
+Added Member To Class: ClassName=STM32CC Member=Component C8 4.7uF
+Added Member To Class: ClassName=STM32CC Member=Component C9 100nF
+Added Member To Class: ClassName=STM32CC Member=Component C10 100nF
+Added Member To Class: ClassName=STM32CC Member=Component C11 1uF
+Added Member To Class: ClassName=STM32CC Member=Component C12 10nF
+Added Member To Class: ClassName=STM32CC Member=Component C13 100nF
+Added Member To Class: ClassName=STM32CC Member=Component C14 100nF
+Added Member To Class: ClassName=STM32CC Member=Component C15 0.1uF
+Added Member To Class: ClassName=STM32CC Member=Component D1 Diode
+Added Member To Class: ClassName=STM32CC Member=Component D2 SMBJ6.8CA
+Added Member To Class: ClassName=STM32CC Member=Component D3 Diode
+Added Member To Class: ClassName=STM32CC Member=Component D4 Diode
+Added Member To Class: ClassName=STM32CC Member=Component D5 LED RED
+Added Member To Class: ClassName=STM32CC Member=Component P1 Header 13X2A
+Added Member To Class: ClassName=STM32CC Member=Component P2 Header 4
+Added Member To Class: ClassName=STM32CC Member=Component P3 Header 4
+Added Member To Class: ClassName=STM32CC Member=Component P4 Header 4
+Added Member To Class: ClassName=STM32CC Member=Component P5 Header 13X2A
+Added Member To Class: ClassName=STM32CC Member=Component P6 Header 4
+Added Member To Class: ClassName=STM32CC Member=Component P7 Header 4
+Added Member To Class: ClassName=STM32CC Member=Component P8 Header 4
+Added Member To Class: ClassName=STM32CC Member=Component P9 Header 4
+Added Member To Class: ClassName=STM32CC Member=Component P10 Header 4
+Added Member To Class: ClassName=STM32CC Member=Component P11 Header 4X2
+Added Member To Class: ClassName=STM32CC Member=Component P12 Header 4X2
+Added Member To Class: ClassName=STM32CC Member=Component P13 Header 3X2A
+Added Member To Class: ClassName=STM32CC Member=Component Q1 SI2302
+Added Member To Class: ClassName=STM32CC Member=Component Q2 SI2302
+Added Member To Class: ClassName=STM32CC Member=Component Q3 SI2302
+Added Member To Class: ClassName=STM32CC Member=Component Q4 9013
+Added Member To Class: ClassName=STM32CC Member=Component R1 0R
+Added Member To Class: ClassName=STM32CC Member=Component R2 0R
+Added Member To Class: ClassName=STM32CC Member=Component R3 100K
+Added Member To Class: ClassName=STM32CC Member=Component R4 50R
+Added Member To Class: ClassName=STM32CC Member=Component R5 50R
+Added Member To Class: ClassName=STM32CC Member=Component R6 1K
+Added Member To Class: ClassName=STM32CC Member=Component R7 1K
+Added Member To Class: ClassName=STM32CC Member=Component R8 1K
+Added Member To Class: ClassName=STM32CC Member=Component R9 50R
+Added Member To Class: ClassName=STM32CC Member=Component R10 50R
+Added Member To Class: ClassName=STM32CC Member=Component R11 0R
+Added Member To Class: ClassName=STM32CC Member=Component R12 0R
+Added Member To Class: ClassName=STM32CC Member=Component R13 1K
+Added Member To Class: ClassName=STM32CC Member=Component R14 50R
+Added Member To Class: ClassName=STM32CC Member=Component R15 50R
+Added Member To Class: ClassName=STM32CC Member=Component R16 100K
+Added Member To Class: ClassName=STM32CC Member=Component R17 100K
+Added Member To Class: ClassName=STM32CC Member=Component R18 50R
+Added Member To Class: ClassName=STM32CC Member=Component R19 50R
+Added Member To Class: ClassName=STM32CC Member=Component R20 1K
+Added Member To Class: ClassName=STM32CC Member=Component R21 0
+Added Member To Class: ClassName=STM32CC Member=Component R22 0
+Added Member To Class: ClassName=STM32CC Member=Component R23 R_1K
+Added Member To Class: ClassName=STM32CC Member=Component R24 R_2.2K
+Added Member To Class: ClassName=STM32CC Member=Component U1 STM32
+Added Member To Class: ClassName=STM32CC Member=Component U2 Header 6
+Added Room: Name=STM32CC

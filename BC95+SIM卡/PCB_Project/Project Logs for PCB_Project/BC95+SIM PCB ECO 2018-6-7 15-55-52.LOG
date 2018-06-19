@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RING Pin=P2-1
+Removed Pin From Net: NetName=REST Pin=P2-2
+Removed Pin From Net: NetName=NETLIGHT Pin=P2-3
+Added Pin To Net: NetName=REST Pin=P2-1
+Added Pin To Net: NetName=NETLIGHT Pin=P2-2
+Added Pin To Net: NetName=RING Pin=P2-3
+Added Room: Name=BC95+SIM
